@@ -1,0 +1,12 @@
+names:
+- vehicle
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: yolo-detection-kdw90
+  url: https://universe.roboflow.com/ryanworkspace/yolo-detection-kdw90/dataset/3
+  version: 3
+  workspace: ryanworkspace
+test: C:\Users\ryan2\OneDrive\ryan_vs\Dissertation\yolo_testing\training\YOLO-Detection-3\test
+train: C:\Users\ryan2\OneDrive\ryan_vs\Dissertation\yolo_testing\training\YOLO-Detection-3\train
+val: C:\Users\ryan2\OneDrive\ryan_vs\Dissertation\yolo_testing\training\YOLO-Detection-3\valid
